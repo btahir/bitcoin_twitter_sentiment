@@ -1,4 +1,4 @@
-# Sentiment Analysis on Bitcoin Using Twitter
+# Sentiment Analysis of Bitcoin Using Twitter Data
 
 This Python script does rudimentary sentiment analysis on tweets with the keyword 'Bitcoin'.
 Original Script Credit: https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
